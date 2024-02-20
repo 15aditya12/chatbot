@@ -1,0 +1,8 @@
+pandas
+openai
+streamlit
+openpyxl
+langchain
+langchain_experimental
+langchain_openai
+tabulate
